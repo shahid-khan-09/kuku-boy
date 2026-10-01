@@ -1,0 +1,35 @@
+# Kuku Boy — India's AI-Powered EdTech 3D Superhero
+
+> Kuku Boy is India's first AI-powered fully animated 3D superhero and EdTech platform co-produced by Boxfy AI and Morph Academy. Kuku Boy teaches kids through storytelling, curiosity, and world-class generative AI animations.
+
+## Overview
+- **Name:** Kuku Boy
+- **Category:** EdTech, 3D Animation, AI Superhero, Kids Entertainment
+- **Creators & Co-Producers:** Boxfy AI & Morph Academy
+- **Official Website:** https://kukuboy.com
+- **Core Mission:** Transforming learning into an epic adventure through curiosity, science, mathematics, coding, and moral values.
+
+## Key Features & Pillars
+1. **Curiosity-Driven Learning:** Solving real-world problems through scientific reasoning and moral choices.
+2. **AI Animation Pipeline:** Cutting-edge generative AI tools (Midjourney, Runway Gen-3, Luma Dream Machine, Kling AI, Topaz Video AI, ElevenLabs) combined with human 3D artists.
+3. **Bilingual Adventures:** Seamless English and Hindi storytelling connecting cultures.
+4. **Interactive EdTech Platform:** Gamified learning missions, STEM exploration, and safe digital entertainment for children aged 4-14.
+
+## Key Sections & Universe
+- **Hero Intro:** The birth of Kuku Boy in a vibrant universe powered by boundless curiosity.
+- **Character Bio:** Flight, energy shielding, super intelligence, empathetic AI companion.
+- **Episodes:**
+  - EP 01: The Science Mission (Physics of Flight)
+  - EP 02: The Math Quest (Puzzle Solving & Logic)
+  - EP 03: The Digital World (Matrix of Code & Computing)
+  - EP 04: The Eco Hero (Saving Magical Forests & Nature)
+  - EP 05: The Future City (AI, Robotics & Smart Cities)
+  - EP 06: Time Travel (Ancient Wisdom & Indian Heritage)
+- **Studio Collaboration:** Boxfy AI (Generative AI & Tech Infrastructure) + Morph Academy (Animation, Rigging, Storytelling & Pedagogy).
+- **Streaming Platforms:** YouTube Kids, OTT Streaming, Mobile Learning App.
+
+## Contact & Links
+- Website: https://kukuboy.com
+- YouTube: https://www.youtube.com/@KukuBoy
+- Instagram: https://www.instagram.com/kukuboy
+- Production Inquiries: contact@kukuboy.com
